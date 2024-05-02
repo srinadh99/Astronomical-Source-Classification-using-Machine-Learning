@@ -4,4 +4,4 @@ Exploring a Variety of Machine Learning Techniques for Astronomical Source Class
 For any queries, please contact at ee19resch01008@iith.ac.in
 
 # Details
-Coming soon ...................
+Will upload the codes and dataset soon.
