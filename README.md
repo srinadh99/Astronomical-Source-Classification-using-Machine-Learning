@@ -50,6 +50,9 @@ More details will be shared soon.
 # Contrastive Learning (CL)
 ## Self-Supervised (SimCLR)
 ## Supervised 
+For initial experiments please check: https://github.com/srinadh99/Contrastive-Learning-for-Astronomy-
+
+More details and codes will be shared soon.
 
 # Conformal Predictions
 For initial experiments, please check, https://github.com/srinadh99/AstroFormer/tree/main/MargFormerCP
