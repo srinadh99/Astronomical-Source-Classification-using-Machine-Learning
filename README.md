@@ -47,5 +47,9 @@ Bayesian Neural Networks are also studied with MargNet and MargFormer. For refer
 
 More details will be shared soon.
 
+# Contrastive Learning (CL)
+## Self-Supervised (SimCLR)
+## Supervised 
+
 # Conformal Predictions
 
