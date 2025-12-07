@@ -9,14 +9,28 @@ We studied several classical ML algorithms for classification between Star-Galax
 
 **Table 1: Classical ML Classification Performance**
 
-| Experiment | Classification Task | Accuracy (%) | Precision (%) | Recall (%) |
-|---|---|---|---|---|
-| **Experiment 1** | Star-Galaxy | 98.1 ± 0.1 | 98.1 ± 0.1 | 98.1 ± 0.1 |
-| Compact Train/Test | Star-Galaxy-Quasar | 93.2 ± 0.1 | 93.3 ± 0.1 | 93.2 ± 0.1 |
-| **Experiment 2** | Star-Galaxy | 97.1 ± 0.1 | 97.1 ± 0.1 | 97.1 ± 0.1 |
-| Faint+Compact Train/Test | Star-Galaxy-Quasar | 86.7 ± 0.1 | 86.8 ± 0.1 | 86.7 ± 0.1 |
-| **Experiment 3** | Star-Galaxy | 92.7 ± 0.1 | 93.2 ± 0.1 | 92.7 ± 0.1 |
-| Compact Train, Faint+Compact Test | Star-Galaxy-Quasar | 75.2 ± 0.1 | 77.9 ± 0.1 | 75.3 ± 0.1 |
+**Table 2: Classical ML Baselines (DT, RF, GBDT) on the Same Experiments**
+
+| Experiment | Split | Classification Task | Model | Accuracy (%) | Precision (%) | Recall (%) |
+|---|---|---|---|---|---|---|
+| Experiment 1 | Compact Train/Test | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  |  | RF | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  |  | GBDT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  | Star-Galaxy-Quasar | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  |  | RF | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  |  | GBDT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+| Experiment 2 | Faint+Compact Train/Test | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|  |  |  | RF | ... | ... | ... |
+|  |  |  | GBDT | ... | ... | ... |
+|  |  | Star-Galaxy-Quasar | DT | ... | ... | ... |
+|  |  |  | RF | ... | ... | ... |
+|  |  |  | GBDT | ... | ... | ... |
+| Experiment 3 | Compact Train, Faint+Compact Test | Star-Galaxy | DT | ... | ... | ... |
+|  |  |  | RF | ... | ... | ... |
+|  |  |  | GBDT | ... | ... | ... |
+|  |  | Star-Galaxy-Quasar | DT | ... | ... | ... |
+|  |  |  | RF | ... | ... | ... |
+|  |  |  | GBDT | ... | ... | ... |
 
 
 # MargNet
