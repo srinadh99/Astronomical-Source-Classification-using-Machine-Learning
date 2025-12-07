@@ -13,6 +13,8 @@ Unofficial PyTorch implementation of the paper, "Photometric identification of c
 The official implementation in tensorflow can be found at https://github.com/sidchaini/MargNet/tree/main
 
 # MargFormer
+Published in Journal of Astrophysics and Space Science and available at https://link.springer.com/article/10.1007/s10509-024-04357-9. The arxiv pre-print is https://arxiv.org/pdf/2408.13634.
+
 
 # Bayesian MargNet and Bayesian Margformer
 
