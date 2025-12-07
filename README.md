@@ -12,21 +12,21 @@ We studied several classical ML algorithms for classification between Star-Galax
 **Table 2: Classical ML Baselines (DT, RF, GBDT) on the Same Experiments**
 
 | Experiment | Split | Classification Task | Model | Accuracy (%) | Precision (%) | Recall (%) |
-|---|---|---|---|---|---|---|
-| Experiment 1 | Compact Train/Test | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
-|  |  |  | RF | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+|---|---|---|---|---|---|
+| Experiment 1 | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+| Compact Train/Test |  |  | RF | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
 |  |  |  | GBDT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
 |  |  | Star-Galaxy-Quasar | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
 |  |  |  | RF | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
 |  |  |  | GBDT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
-| Experiment 2 | Faint+Compact Train/Test | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
-|  |  |  | RF | ... | ... | ... |
+| Experiment 2 | Star-Galaxy | DT | XX.X ± X.X | XX.X ± X.X | XX.X ± X.X |
+| Faint+Compact Train/Test |  |  | RF | ... | ... | ... |
 |  |  |  | GBDT | ... | ... | ... |
 |  |  | Star-Galaxy-Quasar | DT | ... | ... | ... |
 |  |  |  | RF | ... | ... | ... |
 |  |  |  | GBDT | ... | ... | ... |
-| Experiment 3 | Compact Train, Faint+Compact Test | Star-Galaxy | DT | ... | ... | ... |
-|  |  |  | RF | ... | ... | ... |
+| Experiment 3 | Star-Galaxy | DT | ... | ... | ... |
+| Compact Train, Faint+Compact Test |  |  | RF | ... | ... | ... |
 |  |  |  | GBDT | ... | ... | ... |
 |  |  | Star-Galaxy-Quasar | DT | ... | ... | ... |
 |  |  |  | RF | ... | ... | ... |
