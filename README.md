@@ -52,4 +52,4 @@ More details will be shared soon.
 ## Supervised 
 
 # Conformal Predictions
-
+For initial experiments, please check, https://github.com/srinadh99/AstroFormer/tree/main/MargFormerCP
