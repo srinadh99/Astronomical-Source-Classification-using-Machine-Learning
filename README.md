@@ -16,7 +16,5 @@ The official implementation in tensorflow can be found at https://github.com/sid
 
 # Bayesian MargNet and Bayesian Margformer
 
+# Conformal Predictions
 
-
-# Details
-Will upload the codes and dataset soon.
