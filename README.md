@@ -16,7 +16,7 @@ This part of the work (studied as MM ViT) was published in the Journal of **[Ast
 
 
 # Bayesian MargNet and Bayesian Margformer
-Bayesian Neural Networks are also studied with MargNet and MargFormer. For reference, you can have a look at the file **[here](./Ex1_SG_BayesianMargNet.ipynb)**
+Bayesian Neural Networks are also studied with MargNet and MargFormer. For reference, you can have a look at the file **[Ex1_SG_BayesianMargNet.ipynb](./Ex1_SG_BayesianMargNet.ipynb)**
 
 # Conformal Predictions
 
