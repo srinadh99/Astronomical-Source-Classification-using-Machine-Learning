@@ -5,7 +5,7 @@ For any queries, please contact at srinadhml99@gmail.com
 Arxiv link: https://arxiv.org/abs/2408.13634
 
 # Classical ML Algorithms 
-We studied several classical ML algorithms for classification between Star-Galaxy and Star-Galaxy-Quasar.
+We studied several classical ML algorithms for classification between Star-Galaxy and Star-Galaxy-Quasar using photometric features alone. The files can be found at **[Ex1_SG_BayesianMargNet.ipynb](./Ex1_SG_BayesianMargNet.ipynb)**.
 
 **Table 1: Classical ML Classification Performance**
 
