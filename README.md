@@ -8,7 +8,7 @@ Arxiv link: https://arxiv.org/abs/2408.13634
 We studied several classical ML algorithms for classification between Star-Galaxy and Star-Galaxy-Quasar.
 
 # MargNet
-Unofficial PyTorch implementation of the paper, "Photometric identification of compact galaxies, stars and quasars using multiple neural networks".
+Unofficial PyTorch implementation of the paper, **[Photometric identification of compact galaxies, stars and quasars using multiple neural networks](https://academic.oup.com/mnras/article/518/2/3123/6831636?login=false&utm_source=authortollfreelinkguestAccessKey=10ada097-d979-4037-84af-c72d47f5c21b)**.
 
 The official implementation in tensorflow can be found at https://github.com/sidchaini/MargNet/tree/main
 
