@@ -2,6 +2,7 @@
 # Ignore trained weights / serialized models
 *.pth
 *.pkl
+*.csv
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
