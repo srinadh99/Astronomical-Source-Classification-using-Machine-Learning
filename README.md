@@ -11,24 +11,24 @@ We studied several classical ML algorithms for classification between Star-Galax
 
 | Experiment | Classification Task | Model | Accuracy (%) | Precision (%) | Recall (%) |
 |---|---|---|---|---|---|
-| **Experiment 1** | Star-Galaxy | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT | |  |  |
-| Compact Train/Test | Star-Galaxy-Quasar | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT |  |  |  |
-| **Experiment 2** | Star-Galaxy | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT |  |  |  |
-| Faint+Compact Train/Test | Star-Galaxy-Quasar | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT |  |  |  |
-| **Experiment 3** | Star-Galaxy | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT |  |  |  |
-| Compact Train, Faint+Compact Test | Star-Galaxy-Quasar | DT |  |  |  |
-|  |  | RF |  |  |  |
-|  |  | GBDT |  |  |  |
+| **Experiment 1** | Star-Galaxy | MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
+| Compact Train/Test | Star-Galaxy-Quasar | MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
+| **Experiment 2** | Star-Galaxy | MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
+| Faint+Compact Train/Test | Star-Galaxy-Quasar | MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
+| **Experiment 3** | Star-Galaxy |MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
+| Compact Train, Faint+Compact Test | Star-Galaxy-Quasar | MargNet |  |  |  |
+|  |  | MargFormer |  |  |  |
+|  |  | Bayesian MargNet | |  |  |
 
 # MargNet
 Unofficial PyTorch implementation of the paper, **[Photometric identification of compact galaxies, stars and quasars using multiple neural networks](https://academic.oup.com/mnras/article/518/2/3123/6831636?login=false&utm_source=authortollfreelinkguestAccessKey=10ada097-d979-4037-84af-c72d47f5c21b)**.
