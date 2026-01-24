@@ -1,0 +1,7 @@
+
+# Trained model weights
+# Jupyter autosave
+*.pth
+Trained_Models/
+.ipynb_checkpoints/
+
