@@ -5,3 +5,10 @@
 Trained_Models/
 .ipynb_checkpoints/
 
+
+# Ignore trained weights / serialized models
+*.pth
+*.pkl
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
